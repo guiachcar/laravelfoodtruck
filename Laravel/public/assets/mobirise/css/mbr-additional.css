@@ -1,0 +1,12 @@
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #867777;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #867777;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
